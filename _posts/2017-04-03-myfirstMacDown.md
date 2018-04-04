@@ -1,12 +1,12 @@
-#My first MacDown
+# My first MacDown
 
 
 
-##Q1 
-###Hugo
+## Q1 
+### Hugo
 I can't figure out how to "home brew" it. Here is the link: [Hugo](http://www.gohugo.org)  
 
-##Q2
+## Q2
 ### Reference style
 Sometimes it looks too messy to include big long urls inline, or you want to keep all your urls together.  
 
@@ -20,7 +20,7 @@ If the link text itself would make a good id, you can link [like this][] `[like 
 [like this]: http://macdown.uranusjr.com
 
 
-##Q3
+## Q3
 
 * rander list  
 	* indent a level and must start with a space  
@@ -29,13 +29,13 @@ If the link text itself would make a good id, you can link [like this][] `[like 
 	2. w 
 
 	
-##Q4
+## Q4
 >block quote  
 >how to move the functoin of two space=dot  
 >this is a big question  
 >solve it from preference setting
 
-##code  
+## code  
 ``inline code``  
 ```` ``code with	`backticks` `` ````   
 
@@ -67,11 +67,11 @@ sdnfmijo  |kjanfwenf
 
 inline formating fron *help*  
 
-##math  
+## math  
 <math display="block">
     <msubsup><mi>A</mi> <mi>S</mi> <mi>T</mi></msubsup>
     <mo>=</mo>
     <mi>B</mi>
 </math>
 
-##jekyll
+## jekyll
